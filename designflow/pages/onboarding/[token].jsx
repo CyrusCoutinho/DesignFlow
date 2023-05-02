@@ -119,7 +119,7 @@ const Onboarding = () => {
                           type="text"
                           id="bio"
                           className="focus:ring-pink-500 focus:border-pink-500 flex-1 block w-full rounded-md sm:text-sm border-gray-300"
-                          placeholder="I'm a full stack developer!"
+                          placeholder="I'm a UI UX designer!"
                           value={bio}
                           onChange={(e) => setBio(e.target.value)}
                           required
@@ -143,7 +143,7 @@ const Onboarding = () => {
                           type="text"
                           id="tech-stack"
                           className="focus:ring-pink-500 focus:border-pink-500 flex-1 block w-full rounded-md sm:text-sm border-gray-300"
-                          placeholder="Node.js, React, Next.js"
+                          placeholder="Figma, AdobeXD, Sketch, Webflow."
                           value={techStack}
                           onChange={(e) => setTechStack(e.target.value)}
                           required

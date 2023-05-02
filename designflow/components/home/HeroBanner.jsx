@@ -8,24 +8,24 @@ const HeroBanner = ({ user }) => {
         <div className="flex-3 text-center md:text-left">
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-4 md:mb-6 xl:w-5/6 2xl:w-3/4">
             {user
-              ? 'Share your projects with developers across the globe'
-              : 'Discover creative websites and developers'}
+              ? 'Share your designs with designers across the globe'
+              : 'Discover creative websites and designers'}
           </h1>
           <p className="text-sm md:text-md lg:text-lg font-medium text-white mb-6 xl:w-5/6 2xl:w-3/4">
             {user
-              ? 'Got a project to showcase? Post it Driwwwle to get your creative work noticed by hundreds of developers, earn badges and get promoted on our social handles.'
-              : 'Create a free account today to interact with posts from developers across the globe. Open the gates to like, comment, follow and chat.'}
+              ? 'Got a design to showcase? Post it Designflow to get your creative work noticed by hundreds of designers, earn badges and get promoted on our social handles.'
+              : 'Create a free account today to interact with posts from designers across the globe. Open the gates to like, comment, follow and chat.'}
           </p>
           <p className="text-gray-200 hidden md:block">
             Illustration by{' '}
             <a
               className="underline"
-              href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6"
+              href=""
             >
               Designflow
             </a>{' '}
             from{' '}
-            <a className="underline" href="https://icons8.com/illustrations">
+            <a className="underline" href="https://www.sfit.ac.in/">
               SFIT
             </a>
           </p>

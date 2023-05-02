@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/34748469/133837934-3584c5a0-e650-46c1-a0c7-7125d30fd145.png" height="100" width="100" />
+  <img src="https://imgur.com/VJe4v0G.png" height="100" width="100" />
 </p>
-<h1 align="center">Driwwwle</h1>
+<h1 align="center">Designflow</h1>
 
-<h3 align="center">The Social Network for Developers</h3>
+<h3 align="center">The Social Network for Designers</h3>
  
  <p align="center">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
@@ -26,7 +26,7 @@
   🖼️ Cloud image upload with Cloudinary<br />
   ❤️ Like, save and comment on posts<br />
   💬 Realtime chat with Socket.io<br />
-  🤝 Follow developers and build personal feed<br />
+  🤝 Follow designers and build personal feed<br />
   and a lot more..</p>
 </div>
 
@@ -47,7 +47,7 @@ JWT_SECRET =
 CLOUDINARY_CLOUD_NAME = 
 CLOUDINARY_API_KEY = 
 CLOUDINARY_API_SECRET = 
-SENDGRID_API_KEY = 
+SENDINBLUE_PASSWORD = 
 SENDER_EMAIL = 
 ```
 
@@ -71,12 +71,12 @@ Visit http://localhost:3000 or your custom port environment variable to view the
 
 ## Screenshots
 
-![Banner Image](https://user-images.githubusercontent.com/34748469/133844015-c1b49f42-95de-4b4c-93d6-0d74152578cc.png)
+![Banner Image](https://imgur.com/W1yC00L.png)
 
   Landing Page             |  Search
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/34748469/133844238-18e81ef2-ef31-4455-9b8f-08c71754fd97.png)  |  ![](https://user-images.githubusercontent.com/34748469/133844365-d01ebbe2-5c37-4ed8-9337-efb6c15a4828.png)
+![](https://imgur.com/9QSC9fL.png)  |  ![](https://imgur.com/qw4Z3kw.png)
 
   Personal Feed             |  Post & Profile Page
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/34748469/133844617-a3217361-3968-4754-afd6-8f5918a576a5.png)  |  ![](https://user-images.githubusercontent.com/34748469/133844779-fb0bb198-1f9c-4e51-af88-ee55e5471ca4.png)
+![](https://imgur.com/j71tP9Q.png)  |  ![](https://imgur.com/QM9ef8F.png)

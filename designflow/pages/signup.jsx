@@ -117,7 +117,7 @@ const Signup = () => {
                   name="name"
                   id="name"
                   className="focus:ring-pink-500 focus:border-pink-500 block w-full pl-10 sm:text-sm border-gray-300 rounded-md"
-                  placeholder="John Doe"
+                  placeholder="Full Name"
                   value={name}
                   onChange={handleChange}
                   required

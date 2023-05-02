@@ -238,7 +238,7 @@ const MessagesPage = ({ user }) => {
                 <ChatAltIcon className="h-20 w-20 text-pink-600" />
               </div>
               <div className="space-y-0.5">
-                <h1 className="font-semibold text-xl">Chat with developers!</h1>
+                <h1 className="font-semibold text-xl">Chat with designers!</h1>
                 <p className="text-gray-600 min-w-46">
                   Select or search for a user to start chatting with.
                 </p>
@@ -259,7 +259,7 @@ export async function getServerSideProps(ctx) {
   return {
     props: {
       dehydratedState: dehydrate(queryClient),
-      title: 'Your Messages on Driwwwle',
+      title: 'Your Messages on Designflow',
     },
   };
 }

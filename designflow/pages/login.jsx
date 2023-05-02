@@ -48,7 +48,7 @@ const Login = () => {
             Welcome Back!
           </h2>
           <p className="text-center text-pink-600 mt-2 mb-6 font-semibold text-md">
-            Ready to discover creative websites today?
+            Ready to discover creative UI today?
           </p>
         </div>
         <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
@@ -166,7 +166,7 @@ const Login = () => {
 };
 
 export function getServerSideProps() {
-  return { props: { title: 'Login to Driwwwle' } };
+  return { props: { title: 'Login to Designflow' } };
 }
 
 export default Login;

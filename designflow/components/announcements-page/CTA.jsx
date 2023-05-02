@@ -14,7 +14,7 @@ const CTA = () => {
         <div className="mt-8 flex justify-center">
           <div className="inline-flex rounded-md shadow">
             <a
-              href="https://github.com/itsnitinr/driwwwle-v2/issues/new"
+              href="https://github.com/CyrusCoutinho/miniproject"
               className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-pink-600 hover:bg-pink-700"
               target="_blank"
               rel="noreferrer"

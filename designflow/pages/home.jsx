@@ -57,7 +57,7 @@ export async function getServerSideProps() {
       // This is hacky but couldn't find a better solution
       // https://github.com/tannerlinsley/react-query/issues/1458
       dehydratedState: JSON.parse(JSON.stringify(dehydrate(queryClient))),
-      title: 'Recent Posts on Driwwwle',
+      title: 'Recent Posts on Designflow',
     },
   };
 }

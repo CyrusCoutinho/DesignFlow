@@ -65,7 +65,7 @@ const BadgeModal = ({ open, setOpen, badge }) => {
               <div className="mt-5 sm:mt-6">
                 <div className="flex mb-3 space-x-2">
                   <a
-                    href="https://discord.gg/YER2pF6CZS"
+                    href=""
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex items-center w-full justify-center rounded-md cursor-pointer border border-transparent shadow-sm px-4 py-2 bg-gray-700 text-base font-medium text-white hover:bg-gray-800 focus:outline-none sm:text-sm"
@@ -73,7 +73,7 @@ const BadgeModal = ({ open, setOpen, badge }) => {
                     <FaDiscord className="h-5 w-5" />
                   </a>
                   <a
-                    href="https://twitter.com/driwwwle"
+                    href=""
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex w-full justify-center rounded-md border cursor-pointer border-transparent shadow-sm px-4 py-2 bg-blue-500 text-base font-medium text-white hover:bg-blue-600 focus:outline-none sm:text-sm"
@@ -81,7 +81,7 @@ const BadgeModal = ({ open, setOpen, badge }) => {
                     <FaTwitter className="h-5 w-5" />
                   </a>
                   <a
-                    href="https://github.com/itsnitinr/driwwwle-v2"
+                    href="https://github.com/CyrusCoutinho/miniproject"
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex w-full justify-center rounded-md border cursor-pointer border-transparent shadow-sm px-4 py-2 bg-gray-800 text-base font-medium text-white hover:bg-gray-900 focus:outline-none sm:text-sm"

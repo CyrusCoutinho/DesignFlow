@@ -7,19 +7,19 @@ import {
 
 const features = [
   {
-    name: 'Discover websites and developers',
+    name: 'Discover websites and designers',
     description:
-      'Browse through an awesome collection of websites built by developers across the globe and promote your projects as well.',
+      'Browse through an awesome collection of UI UX designs built by designers across the globe.',
     icon: GlobeAltIcon,
   },
   {
     name: 'Like, comment and follow',
     description:
-      'Follow your favourite developers, like a post, leave a nice comment and build your own personal feed curated to your interests.',
+      'Follow your favourite designers, like a post, leave a nice comment and build your own personal feed curated to your interests.',
     icon: HeartIcon,
   },
   {
-    name: 'Chat and engage with the community',
+    name: 'Chat and engage with designers',
     description:
       'Reach out to others with real-time chat integrated in the platform and get notified about interactions with your post.',
     icon: ChatIcon,
@@ -27,7 +27,7 @@ const features = [
   {
     name: 'Free and open-source, forever',
     description:
-      'Driwwwle will remain free forever with no advertisement, data collection, tracking or anything of that sorts!',
+      'Designflow will remain free forever with no advertisement, data collection, tracking or anything of that sorts!',
     icon: EmojiHappyIcon,
   },
 ];
@@ -44,7 +44,7 @@ const Features = () => {
             Why Join the Community?
           </p>
           <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-            Register to enter the world of creative design and development.
+            Register to enter the world of creative designs and development.
           </p>
         </div>
 

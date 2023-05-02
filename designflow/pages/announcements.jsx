@@ -20,7 +20,7 @@ export async function getServerSideProps() {
   const { data } = await axios.get(`${baseURL}/api/stats`);
   return {
     props: {
-      title: 'Announcements from Driwwwle',
+      title: 'Announcements from Designflow',
       users: data.users,
       posts: data.posts,
     },

@@ -84,11 +84,11 @@ const Hero = () => {
             <div className="text-center">
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                 <span className="block">DesignFlow, but for</span>
-                <span className="block text-pink-600">web developers</span>
+                <span className="block text-pink-600">web designers</span>
               </h1>
               <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-                Discover creative websites and developers across the globe. A
-                portal for you to share your projects and get inspired for free.
+                Discover creative websites designs and UI UX designers across the globe. A
+                portal for you to share your designs and get inspired for free.
               </p>
               <div className="mt-12 gap-x-4 gap-y-2 flex flex-wrap justify-center">
                 <Link href="/signup">
@@ -118,7 +118,7 @@ const Hero = () => {
           >
             <Image
               className="relative rounded-lg shadow-lg"
-              src="https://imgur.com/pZJQ5kT.png"
+              src="https://imgur.com/W1yC00L.png"
               width={1920}
               height={1080}
             />

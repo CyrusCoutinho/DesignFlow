@@ -132,7 +132,7 @@ const SearchPage = ({ user }) => {
 };
 
 export async function getServerSideProps() {
-  return { props: { title: 'Advanced Search on Driwwwle' } };
+  return { props: { title: 'Advanced Search on Designflow' } };
 }
 
 export default SearchPage;

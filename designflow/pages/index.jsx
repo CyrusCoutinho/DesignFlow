@@ -14,7 +14,7 @@ const LandingPage = () => {
 
 export function getServerSideProps() {
   return {
-    props: { title: 'Driwwwle - The Social Network for Developers' },
+    props: { title: 'Designflow - The Social Network for Developers' },
   };
 }
 

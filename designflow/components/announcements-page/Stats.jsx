@@ -21,12 +21,12 @@ const Stats = ({ users, posts }) => {
             A huge thanks to everyone who joined the platform ♥
           </p>
           <a
-            href="https://www.producthunt.com/posts/driwwwle?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-driwwwle"
+            href=""
             target="_blank"
           >
             <img
-              src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=314294&theme=light"
-              alt="Driwwwle - Just like Dribbble, but for developers | Product Hunt"
+              src=""
+              alt="Designflow - For UI UX designers"
               width="250"
               height="54"
               className="mx-auto my-6"
@@ -42,7 +42,7 @@ const Stats = ({ users, posts }) => {
               <dl className="rounded-lg bg-white shadow-lg sm:grid sm:grid-cols-3">
                 <div className="flex flex-col border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r">
                   <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                    Developers Onboarded
+                    Designers Onboarded
                   </dt>
                   <dd className="order-1 text-5xl font-extrabold text-pink-600">
                     <CountUp end={users} duration={3} />

@@ -7,42 +7,42 @@ import { BiMedal } from 'react-icons/bi';
 import { RiDashboardLine, RiUserSearchLine } from 'react-icons/ri';
 
 const features = [
-  {
-    name: 'Filter Posts by Category',
-    description:
-      "Only interested in a particular category? You'll be able to filter posts by their category soon.",
-    icon: FilterIcon,
-  },
-  {
-    name: 'More Badges For Your Profile',
-    description:
-      "Contributed to the project or posted something creative? You'll be rewarded with cool badges to show off.",
-    icon: BadgeCheckIcon,
-  },
-  {
-    name: 'Weekly & Monthly Leaderboard',
-    description:
-      'A hall of fame for developers with most number of likes on their posts on weekly, monthly and all time basis.',
-    icon: BiMedal,
-  },
-  {
-    name: 'User Statistics Dashboard',
-    description:
-      'Analyze the reach of your posts with a dashboard for fetching total views, likes and comments on your posts.',
-    icon: RiDashboardLine,
-  },
-  {
-    name: 'Follow Recommendations',
-    description:
-      'New to the platform and not sure whom to follow? Let us help you out by suggesting some awesome developers.',
-    icon: RiUserSearchLine,
-  },
-  {
-    name: 'Edit Posts Even After Publishing',
-    description:
-      "Made a mistake while publishing your post? Don't worry! You can still edit your posts after publishing them.",
-    icon: PencilAltIcon,
-  },
+  // {
+  //   name: 'Filter Posts by Category',
+  //   description:
+  //     "Only interested in a particular category? You'll be able to filter posts by their category soon.",
+  //   icon: FilterIcon,
+  // },
+  // {
+  //   name: 'verification badge',
+  //   description:
+  //     "Contributed or posted something creative? You'll be rewarded with cool badges to show off.",
+  //   icon: BadgeCheckIcon,
+  // },
+  // {
+  //   name: 'Weekly & Monthly Leaderboard',
+  //   description:
+  //     'A hall of fame for developers with most number of likes on their posts on weekly, monthly and all time basis.',
+  //   icon: BiMedal,
+  // },
+  // {
+  //   name: 'User Statistics Dashboard',
+  //   description:
+  //     'Analyze the reach of your posts with a dashboard for fetching total views, likes and comments on your posts.',
+  //   icon: RiDashboardLine,
+  // },
+  // {
+  //   name: 'Follow Recommendations',
+  //   description:
+  //     'New to the platform and not sure whom to follow? Let us help you out by suggesting some awesome developers.',
+  //   icon: RiUserSearchLine,
+  // },
+  // {
+  //   name: 'Edit Posts Even After Publishing',
+  //   description:
+  //     "Made a mistake while publishing your post? Don't worry! You can still edit your posts after publishing them.",
+  //   icon: PencilAltIcon,
+  // },
 ];
 
 export default function Example() {

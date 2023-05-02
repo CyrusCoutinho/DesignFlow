@@ -54,7 +54,7 @@ export async function getServerSideProps(ctx) {
   return {
     props: {
       dehydratedState: dehydrate(queryClient),
-      title: 'Your Settings on Driwwwle',
+      title: 'Your Settings on Designflow',
     },
   };
 }

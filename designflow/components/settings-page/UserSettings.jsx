@@ -107,7 +107,7 @@ const UserSettings = ({ user }) => {
               </label>
               <div className="mt-1 rounded-md shadow-sm flex">
                 <span className="bg-gray-50 border border-r-0 border-gray-300 rounded-l-md px-3 inline-flex items-center text-gray-500 sm:text-sm">
-                  driwwwle.com/
+                  designflow.com/
                 </span>
                 <input
                   type="text"
