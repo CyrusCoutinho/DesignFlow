@@ -4,7 +4,7 @@ import { formatDistanceStrict } from 'date-fns';
 const Stats = ({ users, posts }) => {
   const daysSinceLaunch = formatDistanceStrict(
     Date.now(),
-    new Date('30 Sep 2021'),
+    new Date('27 Feb 2023'),
     {
       unit: 'day',
     }
